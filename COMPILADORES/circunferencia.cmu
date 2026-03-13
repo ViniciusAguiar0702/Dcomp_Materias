@@ -1,0 +1,16 @@
+A funcao Circunferencia arruma um numero. 
+Se, para ela, 
+   um numero Raio
+voce arranjar, o valor de   
+  2*PI*Raio. 
+ela ira te retornar.
+Ja ia esquecendo... preste atencao, por favor: 
+   PI diz ser um numero que tem 3,1415 como valor.
+
+#Equivale ao código C:
+#float Circunferencia(float Raio){
+#   const float PI = 3.1415;
+#   return 2*PI*Raio;
+#}
+
+

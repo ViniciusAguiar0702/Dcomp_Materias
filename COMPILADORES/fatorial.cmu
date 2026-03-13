@@ -1,0 +1,8 @@
+A funcao Fatorial arruma um numero. 
+Se, para ela, 
+   um numero M
+voce arranjar, o valor de uma condicao assim:
+   se (M=0) entao 1  
+   senao M*Fatorial[M-1]
+ela ira te retornar.
+

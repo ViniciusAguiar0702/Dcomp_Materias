@@ -1,0 +1,27 @@
+A funcao Soma arruma um numero. 
+Se, para ela, 
+  um numero M e 
+  um numero N
+voce arranjar, o valor de 
+  M+N 
+ela ira te retornar.
+
+A funcao Aplica arruma um numero. 
+Se, para ela, 
+   uma funcao F (que arruma um numero em troca de um numero e um numero), 
+   um numero M e 
+   um numero N
+voce arranjar, o valor de 
+   F [ M | N]
+ela ira te retornar.
+
+
+Com sua licenca, por aqui vamos começar!
+A função Principal arruma um numero. 
+Se, para ela, 
+   um nada, 
+voce arranjar, o valor de 
+   Aplica[Soma | 1 | 2]
+ela ira te retornar.
+
+
